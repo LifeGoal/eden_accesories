@@ -17,6 +17,7 @@ start eden_accesories
 ```
 
 5) Add a place where people can buy these items
-```css
-# English translation by https://github.com/LifeGoal
+
+```
+English translation by https://github.com/LifeGoal
 ```
