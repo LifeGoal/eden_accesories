@@ -159,108 +159,108 @@ AddEventHandler('eden_accesories:flashlight', function(duration)
 
 			if currentWeaponHash == GetHashKey("WEAPON_PISTOL") then
 		  		 GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("WEAPON_PISTOL"), GetHashKey("COMPONENT_AT_PI_FLSH"))  
-		  		 ESX.ShowNotification(("You have just equipped yourself with a lamp. It will be necessary to re-equip it with every return in town.")) 
+		  		 ESX.ShowNotification(("You have just equipped yourself with a flashlight. It will be necessary to re-equip it with every return in town.")) 
 		  		 	used2 = used2 + 1
 		  	elseif currentWeaponHash == GetHashKey("WEAPON_PISTOL50") then
 		  		 GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("WEAPON_PISTOL50"), GetHashKey("COMPONENT_AT_PI_FLSH"))  
-		  		 ESX.ShowNotification(("You have just equipped yourself with a lamp. It will be necessary to re-equip it with every return in town.")) 
+		  		 ESX.ShowNotification(("You have just equipped yourself with a flashlight. It will be necessary to re-equip it with every return in town.")) 
 	used2 = used2 + 1
 		  		
 
 		  	elseif currentWeaponHash == GetHashKey("WEAPON_COMBATPISTOL") then
 		  		 GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("WEAPON_COMBATPISTOL"), GetHashKey("COMPONENT_AT_PI_FLSH"))  
-		  		 ESX.ShowNotification(("You have just equipped yourself with a lamp. It will be necessary to re-equip it with every return in town.")) 
+		  		 ESX.ShowNotification(("You have just equipped yourself with a flashlight. It will be necessary to re-equip it with every return in town.")) 
 	used2 = used2 + 1
 				
 		  	elseif currentWeaponHash == GetHashKey("WEAPON_APPISTOL") then
 		  		 GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("WEAPON_APPISTOL"), GetHashKey("COMPONENT_AT_PI_FLSH"))  
-		  		 ESX.ShowNotification(("You have just equipped yourself with a lamp. It will be necessary to re-equip it with every return in town.")) 
+		  		 ESX.ShowNotification(("You have just equipped yourself with a flashlight. It will be necessary to re-equip it with every return in town.")) 
 	used2 = used2 + 1
 		  		 
 		  	elseif currentWeaponHash == GetHashKey("WEAPON_HEAVYPISTOL") then
 		  		 GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("WEAPON_HEAVYPISTOL"), GetHashKey("COMPONENT_AT_PI_FLSH"))  
-		  		 ESX.ShowNotification(("You have just equipped yourself with a lamp. It will be necessary to re-equip it with every return in town.")) 
+		  		 ESX.ShowNotification(("You have just equipped yourself with a flashlight. It will be necessary to re-equip it with every return in town.")) 
 	used2 = used2 + 1
 		  		
 		  	elseif currentWeaponHash == GetHashKey("WEAPON_SMG") then
 		  		 GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("WEAPON_SMG"), GetHashKey("COMPONENT_AT_AR_FLSH"))  
-		  		 ESX.ShowNotification(("You have just equipped yourself with a lamp. It will be necessary to re-equip it with every return in town.")) 
+		  		 ESX.ShowNotification(("You have just equipped yourself with a flashlight. It will be necessary to re-equip it with every return in town.")) 
 		  		 	used2 = used2 + 1
 
 
 		  	elseif currentWeaponHash == GetHashKey("WEAPON_MICROSMG") then
 		  		 GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("WEAPON_MICROSMG"), GetHashKey("COMPONENT_AT_PI_FLSH"))  
-		  		 ESX.ShowNotification(("You have just equipped yourself with a lamp. It will be necessary to re-equip it with every return in town.")) 
+		  		 ESX.ShowNotification(("You have just equipped yourself with a flashlight. It will be necessary to re-equip it with every return in town.")) 
 	used2 = used2 + 1
 				
 
 		  	elseif currentWeaponHash == GetHashKey("WEAPON_ASSAULTSMG") then
 		  		 GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("WEAPON_ASSAULTSMG"), GetHashKey("COMPONENT_AT_AR_FLSH"))  
-		  		 ESX.ShowNotification(("You have just equipped yourself with a lamp. It will be necessary to re-equip it with every return in town.")) 
+		  		 ESX.ShowNotification(("You have just equipped yourself with a flashlight. It will be necessary to re-equip it with every return in town.")) 
 	used2 = used2 + 1
 				 
 		  	elseif currentWeaponHash == GetHashKey("WEAPON_COMBATPDW") then
 		  		 GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("WEAPON_COMBATPDW"), GetHashKey("COMPONENT_AT_AR_FLSH"))  
-		  		 ESX.ShowNotification(("You have just equipped yourself with a lamp. It will be necessary to re-equip it with every return in town.")) 
+		  		 ESX.ShowNotification(("You have just equipped yourself with a flashlight. It will be necessary to re-equip it with every return in town.")) 
 	used2 = used2 + 1
 		  			
 
 		  	elseif currentWeaponHash == GetHashKey("WEAPON_ASSAULTRIFLE") then
 		  		 GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("WEAPON_ASSAULTRIFLE"), GetHashKey("COMPONENT_AT_AR_FLSH"))  
-		  		 ESX.ShowNotification(("You have just equipped yourself with a lamp. It will be necessary to re-equip it with every return in town.")) 
+		  		 ESX.ShowNotification(("You have just equipped yourself with a flashlight. It will be necessary to re-equip it with every return in town.")) 
 	used2 = used2 + 1
 		  		
 		  	elseif currentWeaponHash == GetHashKey("WEAPON_CARBINERIFLE") then
 		  		 GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("WEAPON_CARBINERIFLE"), GetHashKey("COMPONENT_AT_AR_FLSH"))  
-		  		 ESX.ShowNotification(("You have just equipped yourself with a lamp. It will be necessary to re-equip it with every return in town.")) 
+		  		 ESX.ShowNotification(("You have just equipped yourself with a flashlight. It will be necessary to re-equip it with every return in town.")) 
 	used2 = used2 + 1
 		  		
 		  	elseif currentWeaponHash == GetHashKey("WEAPON_ADVANCEDRIFLE") then
 		  		 GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("WEAPON_ADVANCEDRIFLE"), GetHashKey("COMPONENT_AT_AR_FLSH"))  
-		  		 ESX.ShowNotification(("You have just equipped yourself with a lamp. It will be necessary to re-equip it with every return in town.")) 
+		  		 ESX.ShowNotification(("You have just equipped yourself with a flashlight. It will be necessary to re-equip it with every return in town.")) 
 	used2 = used2 + 1
 		  		
 		  	elseif currentWeaponHash == GetHashKey("WEAPON_SPECIALCARBINE") then
 		  		 GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("WEAPON_SPECIALCARBINE"), GetHashKey("COMPONENT_AT_AR_FLSH"))  
-		  		 ESX.ShowNotification(("You have just equipped yourself with a lamp. It will be necessary to re-equip it with every return in town.")) 
+		  		 ESX.ShowNotification(("You have just equipped yourself with a flashlight. It will be necessary to re-equip it with every return in town.")) 
 	used2 = used2 + 1
 		  		
 		  	elseif currentWeaponHash == GetHashKey("WEAPON_BULLPUPRIFLE") then
 		  		 GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("WEAPON_BULLPUPRIFLE"), GetHashKey("COMPONENT_AT_AR_FLSH"))  
-		  		 ESX.ShowNotification(("You have just equipped yourself with a lamp. It will be necessary to re-equip it with every return in town.")) 
+		  		 ESX.ShowNotification(("You have just equipped yourself with a flashlight. It will be necessary to re-equip it with every return in town.")) 
 	used2 = used2 + 1
 		  		
 		  	elseif currentWeaponHash == GetHashKey("WEAPON_ASSAULTSHOTGUN") then
 		  		 GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("WEAPON_ASSAULTSHOTGUN"), GetHashKey("COMPONENT_AT_AR_FLSH"))  
-		  		 ESX.ShowNotification(("You have just equipped yourself with a lamp. It will be necessary to re-equip it with every return in town.")) 
+		  		 ESX.ShowNotification(("You have just equipped yourself with a flashlight. It will be necessary to re-equip it with every return in town.")) 
 	used2 = used2 + 1
 		  		
 		  	elseif currentWeaponHash == GetHashKey("WEAPON_HEAVYSHOTGUN") then
 		  		 GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("WEAPON_HEAVYSHOTGUN"), GetHashKey("COMPONENT_AT_AR_FLSH"))  
-		  		 ESX.ShowNotification(("You have just equipped yourself with a lamp. It will be necessary to re-equip it with every return in town.")) 
+		  		 ESX.ShowNotification(("You have just equipped yourself with a flashlight. It will be necessary to re-equip it with every return in town.")) 
 	used2 = used2 + 1
 		  		
 		  	elseif currentWeaponHash == GetHashKey("WEAPON_BULLPUPSHOTGUN") then
 		  		 GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("WEAPON_BULLPUPSHOTGUN"), GetHashKey("COMPONENT_AT_AR_FLSH"))  
-		  		 ESX.ShowNotification(("You have just equipped yourself with a lamp. It will be necessary to re-equip it with every return in town.")) 
+		  		 ESX.ShowNotification(("You have just equipped yourself with a flashlight. It will be necessary to re-equip it with every return in town.")) 
 	used2 = used2 + 1
 		  		 
 		  	elseif currentWeaponHash == GetHashKey("WEAPON_PUMPSHOTGUN") then
 		  		 GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("WEAPON_PUMPSHOTGUN"), GetHashKey("COMPONENT_AT_AR_FLSH"))  
-		  		 ESX.ShowNotification(("You have just equipped yourself with a lamp. It will be necessary to re-equip it with every return in town.")) 
+		  		 ESX.ShowNotification(("You have just equipped yourself with a flashlight. It will be necessary to re-equip it with every return in town.")) 
 	used2 = used2 + 1
 		  		
 		  	elseif currentWeaponHash == GetHashKey("WEAPON_MARKSMANRIFLE") then
 		  		 GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("WEAPON_MARKSMANRIFLE"), GetHashKey("COMPONENT_AT_AR_FLSH"))  
-		  		 ESX.ShowNotification(("You have just equipped yourself with a lamp. It will be necessary to re-equip it with every return in town.")) 
+		  		 ESX.ShowNotification(("You have just equipped yourself with a flashlight. It will be necessary to re-equip it with every return in town.")) 
 	used2 = used2 + 1
 		  		
 		  	else 
-		  		  ESX.ShowNotification(("You do not have a weapon in hand or your weapon does not support a lamp."))
+		  		  ESX.ShowNotification(("You do not have a weapon in hand or your weapon does not support a flashlight."))
 		  		
 			end
 			else
-					  		 ESX.ShowNotification(("You have used all of your lamps, buy another one or un-equip your used lamps.")) 
+					  		 ESX.ShowNotification(("You have used all of your flashlights, buy another one or un-equip your used flashlights.")) 
 
 		end
 end)
