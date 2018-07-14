@@ -17,5 +17,6 @@ start eden_accesories
 ```
 
 5) Add a place where people can buy these items
-
-This script need an English translate, if you made one pm me on discord at Solaris#6632
+```css
+# English translation by https://github.com/LifeGoal
+```
